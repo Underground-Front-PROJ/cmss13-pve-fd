@@ -2706,4 +2706,6 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "maps\_basemap.dm"
+#include "~FD\code\_defines.dm"
+#include "~FD\code\modules\magic\attachments.dm"
 // END_INCLUDE
