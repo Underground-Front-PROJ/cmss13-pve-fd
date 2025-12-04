@@ -2708,4 +2708,6 @@
 #include "maps\_basemap.dm"
 #include "~FD\code\_defines.dm"
 #include "~FD\code\modules\magic\attachments.dm"
+#include "~FD\code\modules\magic\weapons.dm"
+#include "~FD\code\modules\magic\magic_types\_magic_type.dm"
 // END_INCLUDE
